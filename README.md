@@ -1,4 +1,4 @@
-[![MasterHead](image.png)](https://github.com/sundeepbasak)
+[![MasterHead](banner-sbk.png)](https://github.com/sundeepbasak)
 
 <h1 align="center">Hi 👋, I'm Sundeep Basak</h1>
 <h3 align="center">A passionate frontend developer from India from India</h3>
