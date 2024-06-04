@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently working with **Golang and building projects with it.**
 
-- 📫 How to reach me **sundeep15basak@gmail.com**
+- 📫 How to reach me **sundeep.codes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
